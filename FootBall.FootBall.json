@@ -1,0 +1,1792 @@
+[{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5947"
+  },
+  "Team": "Argentina",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 6,
+  "Goals Against": 9,
+  "Points": 4,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5948"
+  },
+  "Team": "Australia",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 5,
+  "Points": 1,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5949"
+  },
+  "Team": "Belgium",
+  "Games Played": 7,
+  "Win": 6,
+  "Draw": 0,
+  "Loss": 1,
+  "Goals For": 16,
+  "Goals Against": 6,
+  "Points": 18,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b594a"
+  },
+  "Team": "Brazil",
+  "Games Played": 5,
+  "Win": 3,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 8,
+  "Goals Against": 3,
+  "Points": 10,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b594b"
+  },
+  "Team": "Colombia",
+  "Games Played": 4,
+  "Win": 2,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 6,
+  "Goals Against": 3,
+  "Points": 7,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b594c"
+  },
+  "Team": "Costa Rica",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 5,
+  "Points": 1,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b594d"
+  },
+  "Team": "Croatia",
+  "Games Played": 7,
+  "Win": 4,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 14,
+  "Goals Against": 9,
+  "Points": 14,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b594e"
+  },
+  "Team": "Denmark",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 3,
+  "Loss": 0,
+  "Goals For": 3,
+  "Goals Against": 2,
+  "Points": 6,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b594f"
+  },
+  "Team": "Egypt",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 0,
+  "Loss": 3,
+  "Goals For": 2,
+  "Goals Against": 6,
+  "Points": 0,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5950"
+  },
+  "Team": "England",
+  "Games Played": 7,
+  "Win": 3,
+  "Draw": 1,
+  "Loss": 3,
+  "Goals For": 12,
+  "Goals Against": 8,
+  "Points": 10,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5951"
+  },
+  "Team": "France",
+  "Games Played": 7,
+  "Win": 6,
+  "Draw": 1,
+  "Loss": 0,
+  "Goals For": 14,
+  "Goals Against": 6,
+  "Points": 19,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5952"
+  },
+  "Team": "Germany",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 4,
+  "Points": 3,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5953"
+  },
+  "Team": "Iceland",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 5,
+  "Points": 1,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5954"
+  },
+  "Team": "Iran",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 2,
+  "Goals Against": 2,
+  "Points": 4,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5955"
+  },
+  "Team": "Japan",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 6,
+  "Goals Against": 7,
+  "Points": 4,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5956"
+  },
+  "Team": "Mexico",
+  "Games Played": 4,
+  "Win": 2,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 3,
+  "Goals Against": 6,
+  "Points": 6,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5957"
+  },
+  "Team": "Morocco",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 4,
+  "Points": 1,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5958"
+  },
+  "Team": "Nigeria",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 3,
+  "Goals Against": 4,
+  "Points": 3,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5959"
+  },
+  "Team": "Panama",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 0,
+  "Loss": 3,
+  "Goals For": 2,
+  "Goals Against": 11,
+  "Points": 0,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b595a"
+  },
+  "Team": "Peru",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 2,
+  "Points": 3,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b595b"
+  },
+  "Team": "Poland",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 5,
+  "Points": 3,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b595c"
+  },
+  "Team": "Portugal",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 6,
+  "Goals Against": 6,
+  "Points": 5,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b595d"
+  },
+  "Team": "Russia",
+  "Games Played": 5,
+  "Win": 2,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 11,
+  "Goals Against": 7,
+  "Points": 8,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b595e"
+  },
+  "Team": "Saudi Arabia",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 7,
+  "Points": 3,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b595f"
+  },
+  "Team": "Senegal",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 4,
+  "Goals Against": 4,
+  "Points": 4,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5960"
+  },
+  "Team": "Serbia",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 4,
+  "Points": 3,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5961"
+  },
+  "Team": "South Korea",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 3,
+  "Goals Against": 3,
+  "Points": 3,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5962"
+  },
+  "Team": "Spain",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 3,
+  "Loss": 0,
+  "Goals For": 7,
+  "Goals Against": 6,
+  "Points": 6,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5963"
+  },
+  "Team": "Sweden",
+  "Games Played": 5,
+  "Win": 3,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 6,
+  "Goals Against": 4,
+  "Points": 9,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5964"
+  },
+  "Team": "Switzerland",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 5,
+  "Goals Against": 5,
+  "Points": 5,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5965"
+  },
+  "Team": "Tunisia",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 5,
+  "Goals Against": 8,
+  "Points": 3,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5966"
+  },
+  "Team": "Uruguay",
+  "Games Played": 5,
+  "Win": 4,
+  "Draw": 0,
+  "Loss": 1,
+  "Goals For": 7,
+  "Goals Against": 3,
+  "Points": 12,
+  "Year": 2022
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5967"
+  },
+  "Team": "Argentina",
+  "Games Played": 7,
+  "Win": 6,
+  "Draw": 0,
+  "Loss": 1,
+  "Goals For": 15,
+  "Goals Against": 8,
+  "Points": 18,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5968"
+  },
+  "Team": "France",
+  "Games Played": 7,
+  "Win": 5,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 16,
+  "Goals Against": 8,
+  "Points": 15,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5969"
+  },
+  "Team": "Croatia",
+  "Games Played": 7,
+  "Win": 4,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 8,
+  "Goals Against": 7,
+  "Points": 14,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b596a"
+  },
+  "Team": "Morocco",
+  "Games Played": 7,
+  "Win": 4,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 6,
+  "Goals Against": 5,
+  "Points": 13,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b596b"
+  },
+  "Team": "England",
+  "Games Played": 5,
+  "Win": 3,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 13,
+  "Goals Against": 4,
+  "Points": 10,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b596c"
+  },
+  "Team": "Netherlands",
+  "Games Played": 5,
+  "Win": 3,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 10,
+  "Goals Against": 4,
+  "Points": 10,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b596d"
+  },
+  "Team": "Portugal",
+  "Games Played": 5,
+  "Win": 3,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 12,
+  "Goals Against": 6,
+  "Points": 9,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b596e"
+  },
+  "Team": "Brazil",
+  "Games Played": 5,
+  "Win": 3,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 8,
+  "Goals Against": 3,
+  "Points": 9,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b596f"
+  },
+  "Team": "Japan",
+  "Games Played": 4,
+  "Win": 2,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 5,
+  "Goals Against": 4,
+  "Points": 6,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5970"
+  },
+  "Team": "Senegal",
+  "Games Played": 4,
+  "Win": 2,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 5,
+  "Goals Against": 7,
+  "Points": 6,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5971"
+  },
+  "Team": "Australia",
+  "Games Played": 4,
+  "Win": 2,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 4,
+  "Goals Against": 6,
+  "Points": 6,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5972"
+  },
+  "Team": "Switzerland",
+  "Games Played": 4,
+  "Win": 2,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 5,
+  "Goals Against": 9,
+  "Points": 6,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5973"
+  },
+  "Team": "USA",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 3,
+  "Goals Against": 4,
+  "Points": 5,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5974"
+  },
+  "Team": "Spain",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 9,
+  "Goals Against": 3,
+  "Points": 4,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5975"
+  },
+  "Team": "Poland",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 3,
+  "Goals Against": 5,
+  "Points": 4,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5976"
+  },
+  "Team": "South Korea",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 5,
+  "Goals Against": 8,
+  "Points": 4,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5977"
+  },
+  "Team": "Germany",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 6,
+  "Goals Against": 5,
+  "Points": 4,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5978"
+  },
+  "Team": "Ecuador",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 4,
+  "Goals Against": 3,
+  "Points": 4,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5979"
+  },
+  "Team": "Cameroon",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 4,
+  "Goals Against": 4,
+  "Points": 4,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b597a"
+  },
+  "Team": "Uruguay",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 2,
+  "Goals Against": 2,
+  "Points": 4,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b597b"
+  },
+  "Team": "Tunisia",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 1,
+  "Goals Against": 1,
+  "Points": 4,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b597c"
+  },
+  "Team": "Mexico",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 2,
+  "Goals Against": 3,
+  "Points": 4,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b597d"
+  },
+  "Team": "Belgium",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 1,
+  "Goals Against": 2,
+  "Points": 4,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b597e"
+  },
+  "Team": "Ghana",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 5,
+  "Goals Against": 7,
+  "Points": 3,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b597f"
+  },
+  "Team": "Saudi Arabia",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 3,
+  "Goals Against": 5,
+  "Points": 3,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5980"
+  },
+  "Team": "Iran",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 4,
+  "Goals Against": 7,
+  "Points": 3,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5981"
+  },
+  "Team": "Costa Rica",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 3,
+  "Goals Against": 11,
+  "Points": 3,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5982"
+  },
+  "Team": "Denmark",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 1,
+  "Goals Against": 3,
+  "Points": 1,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5983"
+  },
+  "Team": "Serbia",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 5,
+  "Goals Against": 8,
+  "Points": 1,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5984"
+  },
+  "Team": "Wales",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 1,
+  "Goals Against": 6,
+  "Points": 1,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5985"
+  },
+  "Team": "Canada",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 0,
+  "Loss": 3,
+  "Goals For": 2,
+  "Goals Against": 7,
+  "Points": 0,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5986"
+  },
+  "Team": "Qatar",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 0,
+  "Loss": 3,
+  "Goals For": 1,
+  "Goals Against": 7,
+  "Points": 0,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5987"
+  },
+  "Team": "Germany",
+  "Games Played": 7,
+  "Win": 6,
+  "Draw": 1,
+  "Loss": 0,
+  "Goals For": 18,
+  "Goals Against": 4,
+  "Points": 19,
+  "Year": 2014
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5988"
+  },
+  "Team": "Argentina",
+  "Games Played": 7,
+  "Win": 5,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 8,
+  "Goals Against": 4,
+  "Points": 16,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5989"
+  },
+  "Team": "Netherlands",
+  "Games Played": 7,
+  "Win": 5,
+  "Draw": 2,
+  "Loss": 0,
+  "Goals For": 15,
+  "Goals Against": 4,
+  "Points": 17,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b598a"
+  },
+  "Team": "Brazil",
+  "Games Played": 7,
+  "Win": 3,
+  "Draw": 2,
+  "Loss": 2,
+  "Goals For": 11,
+  "Goals Against": 14,
+  "Points": 11,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b598b"
+  },
+  "Team": "Colombia",
+  "Games Played": 5,
+  "Win": 4,
+  "Draw": 0,
+  "Loss": 1,
+  "Goals For": 12,
+  "Goals Against": 4,
+  "Points": 12,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b598c"
+  },
+  "Team": "Belgium",
+  "Games Played": 5,
+  "Win": 4,
+  "Draw": 0,
+  "Loss": 1,
+  "Goals For": 6,
+  "Goals Against": 3,
+  "Points": 12,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b598d"
+  },
+  "Team": "France",
+  "Games Played": 5,
+  "Win": 3,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 10,
+  "Goals Against": 3,
+  "Points": 10,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b598e"
+  },
+  "Team": "Costa Rica",
+  "Games Played": 5,
+  "Win": 2,
+  "Draw": 3,
+  "Loss": 0,
+  "Goals For": 5,
+  "Goals Against": 2,
+  "Points": 9,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b598f"
+  },
+  "Team": "Chile",
+  "Games Played": 4,
+  "Win": 2,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 6,
+  "Goals Against": 4,
+  "Points": 7,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5990"
+  },
+  "Team": "Mexico",
+  "Games Played": 4,
+  "Win": 2,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 5,
+  "Goals Against": 3,
+  "Points": 7,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5991"
+  },
+  "Team": "Switzerland",
+  "Games Played": 4,
+  "Win": 2,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 7,
+  "Goals Against": 7,
+  "Points": 6,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5992"
+  },
+  "Team": "Uruguay",
+  "Games Played": 4,
+  "Win": 2,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 4,
+  "Goals Against": 6,
+  "Points": 6,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5993"
+  },
+  "Team": "Greece",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 3,
+  "Goals Against": 5,
+  "Points": 5,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5994"
+  },
+  "Team": "Algeria",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 7,
+  "Goals Against": 7,
+  "Points": 4,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5995"
+  },
+  "Team": "United States",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 5,
+  "Goals Against": 6,
+  "Points": 4,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5996"
+  },
+  "Team": "Nigeria",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 3,
+  "Goals Against": 5,
+  "Points": 4,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5997"
+  },
+  "Team": "Ecuador",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 3,
+  "Goals Against": 3,
+  "Points": 4,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5998"
+  },
+  "Team": "Portugal",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 4,
+  "Goals Against": 7,
+  "Points": 4,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b5999"
+  },
+  "Team": "Croatia",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 6,
+  "Goals Against": 6,
+  "Points": 3,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b599a"
+  },
+  "Team": "Bosnia and Herzegovina",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 4,
+  "Goals Against": 4,
+  "Points": 3,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b599b"
+  },
+  "Team": "Ivory Coast",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 4,
+  "Goals Against": 5,
+  "Points": 3,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b599c"
+  },
+  "Team": "Italy",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 3,
+  "Points": 3,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b599d"
+  },
+  "Team": "Spain",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 4,
+  "Goals Against": 7,
+  "Points": 3,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b599e"
+  },
+  "Team": "Russia",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 2,
+  "Goals Against": 3,
+  "Points": 2,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b599f"
+  },
+  "Team": "Ghana",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 4,
+  "Goals Against": 6,
+  "Points": 1,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59a0"
+  },
+  "Team": "England",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 4,
+  "Points": 1,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59a1"
+  },
+  "Team": "South Korea",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 3,
+  "Goals Against": 6,
+  "Points": 1,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59a2"
+  },
+  "Team": "Iran",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 1,
+  "Goals Against": 4,
+  "Points": 1,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59a3"
+  },
+  "Team": "Japan",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 6,
+  "Points": 1,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59a4"
+  },
+  "Team": "Australia",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 0,
+  "Loss": 3,
+  "Goals For": 3,
+  "Goals Against": 9,
+  "Points": 0,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59a5"
+  },
+  "Team": "Honduras",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 0,
+  "Loss": 3,
+  "Goals For": 1,
+  "Goals Against": 8,
+  "Points": 0,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59a6"
+  },
+  "Team": "Cameroon",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 0,
+  "Loss": 3,
+  "Goals For": 1,
+  "Goals Against": 9,
+  "Points": 0,
+  "Year": 2018
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59a7"
+  },
+  "Team": "Spain",
+  "Games Played": 7,
+  "Win": 6,
+  "Draw": 0,
+  "Loss": 1,
+  "Goals For": 8,
+  "Goals Against": 2,
+  "Points": 18,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59a8"
+  },
+  "Team": "Netherlands",
+  "Games Played": 7,
+  "Win": 6,
+  "Draw": 0,
+  "Loss": 1,
+  "Goals For": 12,
+  "Goals Against": 6,
+  "Points": 18,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59a9"
+  },
+  "Team": "Germany",
+  "Games Played": 7,
+  "Win": 5,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 16,
+  "Goals Against": 5,
+  "Points": 15,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59aa"
+  },
+  "Team": "Uruguay",
+  "Games Played": 7,
+  "Win": 3,
+  "Draw": 2,
+  "Loss": 2,
+  "Goals For": 11,
+  "Goals Against": 8,
+  "Points": 11,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59ab"
+  },
+  "Team": "Argentina",
+  "Games Played": 5,
+  "Win": 4,
+  "Draw": 0,
+  "Loss": 1,
+  "Goals For": 10,
+  "Goals Against": 6,
+  "Points": 12,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59ac"
+  },
+  "Team": "Brazil",
+  "Games Played": 5,
+  "Win": 3,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 9,
+  "Goals Against": 4,
+  "Points": 10,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59ad"
+  },
+  "Team": "Ghana",
+  "Games Played": 5,
+  "Win": 2,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 5,
+  "Goals Against": 4,
+  "Points": 8,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59ae"
+  },
+  "Team": "Paraguay",
+  "Games Played": 5,
+  "Win": 1,
+  "Draw": 3,
+  "Loss": 1,
+  "Goals For": 3,
+  "Goals Against": 2,
+  "Points": 6,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59af"
+  },
+  "Team": "Japan",
+  "Games Played": 4,
+  "Win": 2,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 4,
+  "Goals Against": 2,
+  "Points": 7,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59b0"
+  },
+  "Team": "Chile",
+  "Games Played": 4,
+  "Win": 2,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 3,
+  "Goals Against": 5,
+  "Points": 6,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59b1"
+  },
+  "Team": "Portugal",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 7,
+  "Goals Against": 1,
+  "Points": 5,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59b2"
+  },
+  "Team": "United States",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 5,
+  "Goals Against": 5,
+  "Points": 5,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59b3"
+  },
+  "Team": "England",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 3,
+  "Goals Against": 5,
+  "Points": 5,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59b4"
+  },
+  "Team": "Mexico",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 4,
+  "Goals Against": 5,
+  "Points": 4,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59b5"
+  },
+  "Team": "South Korea",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 6,
+  "Goals Against": 8,
+  "Points": 4,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59b6"
+  },
+  "Team": "Slovakia",
+  "Games Played": 4,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 5,
+  "Goals Against": 7,
+  "Points": 4,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59b7"
+  },
+  "Team": "Ivory Coast",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 4,
+  "Goals Against": 3,
+  "Points": 4,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59b8"
+  },
+  "Team": "Slovenia",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 3,
+  "Goals Against": 3,
+  "Points": 4,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59b9"
+  },
+  "Team": "Switzerland",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 1,
+  "Goals Against": 1,
+  "Points": 4,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59ba"
+  },
+  "Team": "South Africa",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 3,
+  "Goals Against": 5,
+  "Points": 4,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59bb"
+  },
+  "Team": "Australia",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 1,
+  "Loss": 1,
+  "Goals For": 3,
+  "Goals Against": 6,
+  "Points": 4,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59bc"
+  },
+  "Team": "New Zealand",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 3,
+  "Loss": 0,
+  "Goals For": 2,
+  "Goals Against": 2,
+  "Points": 3,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59bd"
+  },
+  "Team": "Serbia",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 3,
+  "Points": 3,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59be"
+  },
+  "Team": "Denmark",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 3,
+  "Goals Against": 6,
+  "Points": 3,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59bf"
+  },
+  "Team": "Greece",
+  "Games Played": 3,
+  "Win": 1,
+  "Draw": 0,
+  "Loss": 2,
+  "Goals For": 2,
+  "Goals Against": 5,
+  "Points": 3,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59c0"
+  },
+  "Team": "Italy",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 2,
+  "Loss": 1,
+  "Goals For": 4,
+  "Goals Against": 5,
+  "Points": 2,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59c1"
+  },
+  "Team": "Nigeria",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 3,
+  "Goals Against": 5,
+  "Points": 1,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59c2"
+  },
+  "Team": "Algeria",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 0,
+  "Goals Against": 2,
+  "Points": 1,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59c3"
+  },
+  "Team": "France",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 1,
+  "Goals Against": 4,
+  "Points": 1,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59c4"
+  },
+  "Team": "Honduras",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 1,
+  "Loss": 2,
+  "Goals For": 0,
+  "Goals Against": 3,
+  "Points": 1,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59c5"
+  },
+  "Team": "Cameroon",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 0,
+  "Loss": 3,
+  "Goals For": 2,
+  "Goals Against": 5,
+  "Points": 0,
+  "Year": 2010
+},
+{
+  "_id": {
+    "$oid": "672a41f94072df1ace1b59c6"
+  },
+  "Team": "North Korea",
+  "Games Played": 3,
+  "Win": 0,
+  "Draw": 0,
+  "Loss": 3,
+  "Goals For": 1,
+  "Goals Against": 12,
+  "Points": 0,
+  "Year": 2010
+}]
